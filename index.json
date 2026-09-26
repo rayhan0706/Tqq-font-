@@ -1,0 +1,19 @@
+{
+  "spec": 1,
+  "name": "TQQ Font",
+  "previewText": "The Quintessential Quintuplets Font",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/rayhan0706/Tqq-font-/refs/heads/main/Quintessential-Regular.ttf"
+  }
+}
